@@ -1,3 +1,3 @@
 # Leet-Code
 
-Solved collection of leetcode solutions for interview preparation.
+Solved collection of leetcode questions for interview preparation.
